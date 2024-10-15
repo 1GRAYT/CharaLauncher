@@ -1,6 +1,7 @@
 import minecraft_launcher_lib
 import subprocess
 from tkinter import *
+import time
 
 root = Tk()
 
